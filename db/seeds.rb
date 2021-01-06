@@ -5,7 +5,7 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
-
+Model.destroy_all
 
 Model.create(name: "Candy Cane", gltf: "assets/Candy_cane/275_Candy Cane.gltf", usdz: "assets/Candy_cane/275_Candy Cane.usdz", author: "Google")
 Model.create(name: "Christmas Tree", gltf: "assets/Christmas_tree/model.gltf", usdz: "assets/Christmas_tree/model.usdz", author: "Alex Safayan")
