@@ -13,4 +13,4 @@ Model.create(name: "Presents", gltf: "assets/Presents/model.gltf", usdz: "assets
 Model.create(name: "Santa Hat", gltf: "assets/Santa Hat/model.gltf", usdz: "assets/Santa Hat/model.usdz", author: "Joe Dorman")
 Model.create(name: "Stocking", gltf: "assets/Stocking/model.gltf", usdz: "assets/Stocking/model.usdz", author: "Olga Nabatova")
 Model.create(name: "Tree Ornament", gltf: "assets/Tree_ornament/model.gltf", usdz: "assets/Tree_ornament/model.usdz", author: "Olga Nabatova")
-Model.create(name: "Wreath", gltf: "assets/Wreath/model.gltf", usdz: "assets/Tree_ornament/model.usdz", author: "Olga Nabatova")
+Model.create(name: "Wreath", gltf: "assets/Wreath/model.gltf", usdz: "front-end/assets/Wreath/model.usdz", author: "Olga Nabatova")
